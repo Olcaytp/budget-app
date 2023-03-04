@@ -11,19 +11,19 @@
 
  ## Budget-App-Angular
 <img
-  src="budget-app\src\assets\1.jpeg"
+  src="..\src\assets\1.jpeg"
   alt="budget-app"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   <img
-  src="budget-app\src\assets\2.jpeg"
+  src="..\src\assets\2.jpeg"
   alt="budget-app"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   <img
-  src="budget-app\src\assets\3.jpeg"
+  src="..\src\assets\3.jpeg"
   alt="budget-app"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
    <img
-  src="budget-app\src\assets\4.jpeg"
+  src="..\src\assets\4.jpeg"
   alt="budget-app"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
