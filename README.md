@@ -25,4 +25,9 @@
   alt="budget-app"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  <img
+  src="src\assets\1.jpeg"
+  alt="budget-app"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
