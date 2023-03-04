@@ -10,7 +10,7 @@
 ## This isthe project that we used effectively @Input and @Output decorators
 
  ## Budget-App-Angular
-<img
+  <img
   src="\src\assets\1.jpeg"
   alt="budget-app"
   title="Optional title"
@@ -25,7 +25,7 @@
   alt="budget-app"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-   <img
+  <img
   src="src\assets\4.jpeg"
   alt="budget-app"
   title="Optional title"
